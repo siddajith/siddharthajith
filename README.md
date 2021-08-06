@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siddharthajith
+- 👋 Hi, I’m @siddajith
 - 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Science projects
